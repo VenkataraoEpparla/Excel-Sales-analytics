@@ -1,38 +1,32 @@
 # Sales and Finance Analytics Project
 
-This repository hosts a sales and finance analytics project implemented in Excel. The project aims to provide insights into customer performance, market performance, and financial health through thorough analysis of sales and financial data.
+Welcome to the Sales and Finance Analytics project repository! This project leverages Excel to conduct comprehensive sales and financial analysis, providing valuable insights into customer performance, market dynamics, and financial health. Below, you'll find an overview of the project's objectives, reports generated, and the technical and soft skills utilized.
 
-## Reports
+## Project Overview
 
-1. **[Customer Performance Report](#customer-performance-report)**
-   - Objective: Analyze customer performance metrics.
-   - Purpose: Empower businesses to monitor and evaluate their sales activities effectively.
-   - Importance: Identify sales patterns, track KPIs, and support strategic decision-making.
-   - Role: Determine effective customer discounts, facilitate consumer negotiations, identify business expansion opportunities.
+The Sales and Finance Analytics project aims to empower businesses by providing actionable insights derived from sales and financial data analysis. From evaluating customer performance to conducting market comparisons and generating profit and loss statements, this project addresses critical aspects of business operations and decision-making.
 
-2. **[Market Performance vs Target Report](#market-performance-vs-target-report)**
-   - Objective: Conduct a comprehensive comparison.
-   - Purpose: Evaluate market performance against predefined sales targets.
-   - Importance: Identify areas of overperformance or underperformance.
-   - Role: Inform strategic adjustments and resource allocations.
+## Objectives
 
-3. **[Profit and Loss (P&L) Statement by Fiscal Year](#profit-and-loss-pl-statement-by-fiscal-year)**
-   - Objective: Analyze financial performance by fiscal year.
-   - Purpose: Evaluate overall financial health and profitability.
-   - Importance: Foundation for budgeting, forecasting, and stakeholder communication.
-   - Role: Align financial planning with strategic goals, instill confidence in financial outlook.
+### Sales Report:
+1. **[Customer Performance Report](https://github.com/VenkataraoEpparla/Excel-Sales-analytics/blob/main/Customer%20Performance%20Report.pdf)**: Analyze customer performance metrics.
+2. **[Market Performance vs Target Report](https://github.com/VenkataraoEpparla/Excel-Sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)**: Conduct a comprehensive comparison.
 
-4. **[Profit and Loss (P&L) Statement by Markets](#profit-and-loss-pl-statement-by-markets)**
-   - Objective: Analyze financial performance by market or geographical region.
-   - Purpose: Evaluate profitability across different markets.
-   - Importance: Identify profitable markets and areas for improvement.
-   - Role: Guide strategic decisions regarding market expansion, resource allocation, and pricing strategies.
+### Finance Report:
+1. **[Profit and Loss (P&L) Statement by Fiscal Year](https://github.com/VenkataraoEpparla/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**: Analyze financial performance by fiscal year.
+2. **[Profit and Loss (P&L) Statement by Markets](https://github.com/VenkataraoEpparla/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)**: Analyze financial performance by market or geographical region.
+3. **[Profit and Loss (P&L) Statement by Months](https://github.com/VenkataraoEpparla/Excel-Sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)**: Analyze financial performance by month.
 
-5. **[Profit and Loss (P&L) Statement by Months](#profit-and-loss-pl-statement-by-months)**
-   - Objective: Analyze financial performance by month.
-   - Purpose: Identify seasonal trends and fluctuations in profitability.
-   - Importance: Inform short-term financial planning and decision-making.
-   - Role: Optimize resource allocation, inventory management, and sales strategies based on monthly performance.
+## What I Accomplished
+
+### Sales Report:
+1. **Customer Performance Report**: Extracted and analyzed customer data to evaluate sales volume, revenue, and profitability on an individual basis.
+2. **Market Performance vs Target Report**: Compared market performance metrics to predefined sales targets to identify areas of overperformance or underperformance.
+
+### Finance Report:
+1. **Profit and Loss (P&L) Statement by Fiscal Year**: Compiled and analyzed financial data to generate profit and loss statements for each fiscal year, providing insights into overall financial health and profitability.
+2. **Profit and Loss (P&L) Statement by Markets**: Analyzed financial data to generate profit and loss statements for different markets, enabling comparison and identification of profitable markets and areas for improvement.
+3. **Profit and Loss (P&L) Statement by Months**: Analyzed financial data to generate profit and loss statements for each month, facilitating the identification of seasonal trends and fluctuations in profitability.
 
 ## Technical & Soft Skills
 
@@ -49,3 +43,4 @@ This repository hosts a sales and finance analytics project implemented in Excel
 - Designing user-centric reports.
 - Optimizing report generation through fine-tuning.
 - Developing a systematic approach to report building.
+
