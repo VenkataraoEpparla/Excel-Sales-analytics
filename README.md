@@ -36,7 +36,7 @@ The Sales and Finance Analytics project aims to empower businesses by providing 
 - Deriving fiscal months and quarters.
 - Establishing data model relationships with Power Pivot.
 - Incorporating supplementary data into existing data models.
-- Using DAX for calculated columns.
+
 
 ### Soft Skills:
 - Understanding of Sales & Finance Reports.
